@@ -1,0 +1,25 @@
+{
+  "name": "Departments-Pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Departments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagarmetwali/Departments-Pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hagarmetwali/Departments-Pages/issues"
+  },
+  "homepage": "https://github.com/hagarmetwali/Departments-Pages#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.5"
+  }
+}
